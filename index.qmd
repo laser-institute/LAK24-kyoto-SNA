@@ -2,80 +2,63 @@
 title: "Social Network Analysis for Newbies: Theory, Applications, and Analysis"
 ---
 
-Date: **Monday, March 18, 2024**
+**Date:** Monday, March 18, 2024
 
-TIme: 9AM - 12:30PM
+**Time:** 9AM - 12:30PM
 
-Room: **LAK24**
+**Room:** TBD
 
-Course Faculty:
+**Workshop Faculty:**
 
-Dr. Shaun Kellogg, NC State University, [sbkellog\@ncsu.edu](mailto:sbkellog@ncsu.edu)
+-   Dr. Shaun Kellogg, NC State University, [sbkellog\@ncsu.edu](mailto:sbkellog@ncsu.edu)
 
-Jeanne McClure, NC State University, [jmmcclu3\@ncsu.edu](jmmcclu3@ncsu.edu)
+-   Jeanne McClure, NC State University, [jmmcclu3\@ncsu.edu](mailto:jmmcclu3@ncsu.edu)
 
-Dr. Shiyan Jiang, NC State University,
+-   Dr. Shiyan Jiang, NC State University,[sjiang24\@ncsu.edu](mailto:sjiang24@ncsu.edu)
 
-Dr. Susan Hibbard, NC State University,
+-   Dr. Susan Hibbard, NC State University,[susan.hibbard\@blueprintprep.com](mailto:susan.hibbard@blueprintprep.com)
 
-Doreen Mushi, NC State University,
+-   Doreen Mushi, NC State University,[drmushi\@ncsu.edu](mailto:drmushi@ncsu.edu)
 
 ------------------------------------------------------------------------
 
-::: callout-note
-## This workshop webpage
-
-This workshop template contains:
-
--   Home: `index.qmd` (this page)
-
--   About: `about.qmd`
-
-Two content pages
-
--   Page without code: `part_1_prep.qmd`
-
--   Page with R code: `part_2_eda.qmd`
-
-It is straightforward to add more content pages: you need to create a new `.qmd` file (or copy/paste the existing ones), then link the new page inside `_quarto.yml`.
-:::
-
-::: callout-tip
-## Homepage of your workshop
-
-This is the **homepage** `index.qmd` for your workshop, so ideally it should contain some key information such as **time and place, instructors** and information of the course/workshop.
-
-It should be easy to navigate.
-:::
-
 # Welcome!
 
--   The goal of the workshop is to ... (*insert your message*)
--   For example, introduce kep concepts in machine learning, such as regularisation.
--   Workshop material can be found in the workshop [github repository](https://github.com).
+- Using LASER materials, this workshop is designed to introduce education researchers with little or no background in SNA to social network theory, examples of network analysis in educational contexts, and applied experience analyzing real-world data sets. To support scholars’ conceptual understanding of SNA as both a theoretical perspective and an analytical method, the instructors will provide short presentations and facilitate peer discussion on topics ranging from broad applications of SNA in educational contexts to specific approaches for data collection and storage. This course will also provide you with applied experience analyzing network data through code-alongs and interactive case studies that use widely adopted tools (e.g., R, RStudio, and GitHub) and demonstrate common techniques (e.g, network visualization, measurement, and modeling). Collectively, these activities will help you both appreciate and experience how SNA can be used to understand and improve student learning and the contexts in which learning occurs.
+
+-   Workshop material can be found in the workshop [LAK SNA github repository](https://github.com/laser-institute/LAK24-kyoto-SNA).
 
 #### Learning Objectives
 
 At the end of the tutorial, participants will be able to
 
--   understand key concepts for ... (*insert your message*)
--   For example, training machine learning models such as regularisation.
--   another objective
+::: callout-note
+**Theory Comprehension:** Acquire knowledge on the theoretical underpinning of social network analysis, and understand its application in solving critical problems and addressing pertinent questions in the educational sector.
+
+**Identifying Data and Metrics:** Learn to pinpoint potential data sources for network analysis, and familiarize oneself with related metrics such as centrality and degree. Software Mastery: Become adept at utilizing current software and tools like R, enhancing skills in the execution of workflows for data preparation, analysis, and dissemination.
+
+**Analytical Understanding:** Grasp the analytical procedures and techniques such as sociograms and clustering in network analysis, essential for comprehending and augmenting learning as well as the environments conducive to learning.
+
+**Effective Communication:** Develop an understanding of the fundamental concepts and terms in SNA, empowering individuals to convey basic SNA methods, analytical outcomes, and discoveries to a broad spectrum of stakeholders in education.
+:::
 
 #### Pre-requisites
 
--   Basic familiarity with R
--   Some other knowledge
+-   Basic familiarity of statistics
+
+ 
+::: callout-tip
+    Although having a background in R, RStudio, and GitHub can aid in navigating complex activities, it is not mandatory.
+:::
 
 # Schedule
 
 ::: callout-tip
-## Tabular schedule
-
-It can be useful to include a tabular schedule with links.
+## Schedule
 :::
 
-|     Time      |                       Topic                       |    Presenter    |
-|:----------------:|:-----------------------------------:|:----------------:|
-| 9:00 - 10:30  |     [Session 1: Preparation](part_1_prep.qmd)     |  Instructor A   |
-| 10:45 - 12:00 | [Session 2: Exploratory Analysis](part_2_eda.qmd) | Instructor B, C |
+|     Time      |                         Topic                         |    Faculty     |
+|:-----------------:|:--------------------------------:|:-----------------:|
+|  9:00 - 9:50  | [Introduction and Overview of LASER] |  Instructor A  |
+| 9:50 - 10:00  |                       (Break)                       |                |
+| 10:00 - 11:00 |             [SNA for Newbies]            | Instructor B,C |

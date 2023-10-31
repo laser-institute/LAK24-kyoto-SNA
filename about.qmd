@@ -8,19 +8,21 @@ editor: visual
 ---
 
 ::: callout-tip
+SNA for Newbies - A workshop
+
 ## About page
 
-This page contains some elaborated background information about your workshop, or the instructors.
+Using LASER materials, this workshop is designed to introduce education researchers with little or no background in SNA to social network theory, examples of network analysis in educational contexts, and applied experience analyzing real-world data sets. To support scholars' conceptual understanding of SNA as both a theoretical perspective and an analytical method, the instructors will provide short presentations and facilitate peer discussion on topics ranging from broad applications of SNA in educational contexts to specific approaches for data collection and storage. This course will also provide you with applied experience analyzing network data through code-alongs and interactive case studies that use widely adopted tools (e.g., R, RStudio, and GitHub) and demonstrate common techniques (e.g, network visualization, measurement, and modeling). Collectively, these activities will help you both appreciate and experience how SNA can be used to understand and improve student learning and the contexts in which learning occurs.
 :::
-
-*For example*: A central problem in machine learning is how to make an algorithm perform well not just on the training data, but also on new inputs. Many strategies in machine learning are explicitly designed to reduce this test error, possibly at the expense of increased training error. These strategies are collectively known as regularisation and they are instrumental for good performance of any kind of prediction or classification model, especially in the context of small data (many features, few samples).
-
-In the hands-on tutorial we will use R to perform an integrated analysis of multi-omics data with penalised regression.
 
 #### Contact
 
-Instructor A: contact
+\- Dr. Shaun Kellogg, NC State University, \[sbkellog\\\@ncsu.edu\](mailto:sbkellog\@ncsu.edu)
 
-Instructor B: contact
+\- Jeanne McClure, NC State University, \[jmmcclu3\\\@ncsu.edu\](mailto:jmmcclu3\@ncsu.edu)
 
-Instructor C: contact
+\- Dr. Shiyan Jiang, NC State University,\[sjiang24\\\@ncsu.edu\](mailto:sjiang24\@ncsu.edu)
+
+\- Dr. Susan Hibbard, NC State University,\[susan.hibbard\\\@blueprintprep.com\](mailto:susan.hibbard\@blueprintprep.com)
+
+\- Doreen Mushi, NC State University,\[drmushi\\\@ncsu.edu\](mailto:drmushi\@ncsu.edu)
