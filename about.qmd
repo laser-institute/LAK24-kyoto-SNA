@@ -7,7 +7,7 @@ format:
 editor: visual
 ---
 
-::: callout-tip
+::: callout-note
 SNA for Newbies - A workshop
 
 ## About page
