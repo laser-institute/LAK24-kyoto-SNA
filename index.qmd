@@ -1,5 +1,5 @@
 ---
-title: "Social Network Analysis for Newbies: Theory, Applications, and Analysis"
+title: "Welcome to the LAK workshop Social Network Analysis for Newbies!"
 ---
 
 **Date:** Monday, March 18, 2024
@@ -8,17 +8,6 @@ title: "Social Network Analysis for Newbies: Theory, Applications, and Analysis"
 
 **Room:** TBD
 
-**Workshop Faculty:**
-
--   Dr. Shaun Kellogg, NC State University, [sbkellog\@ncsu.edu](mailto:sbkellog@ncsu.edu)
-
--   Jeanne McClure, NC State University, [jmmcclu3\@ncsu.edu](mailto:jmmcclu3@ncsu.edu)
-
--   Dr. Shiyan Jiang, NC State University,[sjiang24\@ncsu.edu](mailto:sjiang24@ncsu.edu)
-
--   Dr. Susan Hibbard, NC State University,[susan.hibbard\@blueprintprep.com](mailto:susan.hibbard@blueprintprep.com)
-
--   Doreen Mushi, NC State University,[drmushi\@ncsu.edu](mailto:drmushi@ncsu.edu)
 
 ------------------------------------------------------------------------
 
@@ -28,11 +17,12 @@ title: "Social Network Analysis for Newbies: Theory, Applications, and Analysis"
 
 -   Workshop material can be found in the workshop [LAK SNA github repository](https://github.com/laser-institute/LAK24-kyoto-SNA).
 
+
+::: callout
 #### Learning Objectives
 
 At the end of the tutorial, participants will be able to
 
-::: callout-note
 **Theory Comprehension:** Acquire knowledge on the theoretical underpinning of social network analysis, and understand its application in solving critical problems and addressing pertinent questions in the educational sector.
 
 **Identifying Data and Metrics:** Learn to pinpoint potential data sources for network analysis, and familiarize oneself with related metrics such as centrality and degree. Software Mastery: Become adept at utilizing current software and tools like R, enhancing skills in the execution of workflows for data preparation, analysis, and dissemination.

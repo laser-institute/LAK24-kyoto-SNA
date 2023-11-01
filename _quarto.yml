@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Workshop Title"
+  title: "Social Network Analysis for Newbies: Theory, Applications, and Analysis"
   navbar:
     left:
       - href: index.qmd
