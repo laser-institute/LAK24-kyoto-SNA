@@ -60,7 +60,7 @@
     "href": "index.html",
     "title": "Welcome to the LAK workshop Social Network Analysis for Newbies!",
     "section": "",
-    "text": "Date: Monday, March 18, 2024\nTime: 9AM - 12:30PM\nRoom: TBD\n\n\nWelcome!\n\nUsing LASER materials, this workshop is designed to introduce education researchers with little or no background in SNA to social network theory, examples of network analysis in educational contexts, and applied experience analyzing real-world data sets. To support scholars’ conceptual understanding of SNA as both a theoretical perspective and an analytical method, the instructors will provide short presentations and facilitate peer discussion on topics ranging from broad applications of SNA in educational contexts to specific approaches for data collection and storage. This course will also provide you with applied experience analyzing network data through code-alongs and interactive case studies that use widely adopted tools (e.g., R, RStudio, and GitHub) and demonstrate common techniques (e.g, network visualization, measurement, and modeling). Collectively, these activities will help you both appreciate and experience how SNA can be used to understand and improve student learning and the contexts in which learning occurs.\nWorkshop material can be found in the workshop LAK SNA github repository.\n\n\n\n\n\n\n\nLearning Objectives\n\n\n\nAt the end of the tutorial, participants will be able to\nTheory Comprehension: Acquire knowledge on the theoretical underpinning of social network analysis, and understand its application in solving critical problems and addressing pertinent questions in the educational sector.\nIdentifying Data and Metrics: Learn to pinpoint potential data sources for network analysis, and familiarize oneself with related metrics such as centrality and degree. Software Mastery: Become adept at utilizing current software and tools like R, enhancing skills in the execution of workflows for data preparation, analysis, and dissemination.\nAnalytical Understanding: Grasp the analytical procedures and techniques such as sociograms and clustering in network analysis, essential for comprehending and augmenting learning as well as the environments conducive to learning.\nEffective Communication: Develop an understanding of the fundamental concepts and terms in SNA, empowering individuals to convey basic SNA methods, analytical outcomes, and discoveries to a broad spectrum of stakeholders in education.\n\n\n\nPre-requisites\n\nBasic familiarity of statistics\n\n\n\n\n\n\n\nTip\n\n\n\nAlthough having a background in R, RStudio, and GitHub can aid in navigating complex activities, it is not mandatory.\n\n\n\n\n\nSchedule\n\n\n\n\n\n\nSchedule\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nTopic\nFaculty\n\n\n\n\n9:00 - 9:50\n[Introduction and Overview of LASER]\nInstructor A\n\n\n9:50 - 10:00\n(Break)\n\n\n\n10:00 - 11:00\n[SNA for Newbies]\nInstructor B,C"
+    "text": "Date: Monday, March 18, 2024\nTime: 9AM - 12:30PM\nRoom: TBD\n\n\nWelcome!\n\nThis workshop introduces education researchers to social network theory and its applications in educational contexts using LASER materials. Instructors will offer presentations and discussions on SNA applications, data collection, and storage techniques. Participants will gain hands-on experience analyzing network data using tools like R, RStudio, and GitHub. The course aims to demonstrate how SNA can enhance understanding and improvement of student learning and its environments.\nWorkshop material can be found in the workshop LAK SNA github repository.\n\n\n\n\n\n\n\nLearning Objectives\n\n\n\nAt the end of the tutorial, participants will be able to\nTheory Comprehension: Acquire knowledge on the theoretical underpinning of social network analysis, and understand its application in solving critical problems and addressing pertinent questions in the educational sector.\nIdentifying Data and Metrics: Learn to pinpoint potential data sources for network analysis, and familiarize oneself with related metrics such as centrality and degree. Software Mastery: Become adept at utilizing current software and tools like R, enhancing skills in the execution of workflows for data preparation, analysis, and dissemination.\nAnalytical Understanding: Grasp the analytical procedures and techniques such as sociograms and clustering in network analysis, essential for comprehending and augmenting learning as well as the environments conducive to learning.\nEffective Communication: Develop an understanding of the fundamental concepts and terms in SNA, empowering individuals to convey basic SNA methods, analytical outcomes, and discoveries to a broad spectrum of stakeholders in education.\n\n\n\nPre-requisites\n\nBasic familiarity of statistics\n\n\n\n\n\n\n\nTip\n\n\n\nAlthough having a background in R, RStudio, and GitHub can aid in navigating complex activities, it is not mandatory.\n\n\n\n\n\nSchedule\n\n\n\n\n\n\nSchedule\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nTopic\nFaculty\n\n\n\n\n9:00 - 9:50\n[Introduction and Overview of LASER]\nInstructor A\n\n\n9:50 - 10:00\n(Break)\n\n\n\n10:00 - 11:00\n[SNA for Newbies]\nInstructor B,C"
   },
   {
     "objectID": "about.html#about-page",
@@ -68,5 +68,40 @@
     "title": "About",
     "section": "",
     "text": "Using LASER materials, this workshop is designed to introduce education researchers with little or no background in SNA to social network theory, examples of network analysis in educational contexts, and applied experience analyzing real-world data sets. To support scholars’ conceptual understanding of SNA as both a theoretical perspective and an analytical method, the instructors will provide short presentations and facilitate peer discussion on topics ranging from broad applications of SNA in educational contexts to specific approaches for data collection and storage. This course will also provide you with applied experience analyzing network data through code-alongs and interactive case studies that use widely adopted tools (e.g., R, RStudio, and GitHub) and demonstrate common techniques (e.g, network visualization, measurement, and modeling). Collectively, these activities will help you both appreciate and experience how SNA can be used to understand and improve student learning and the contexts in which learning occurs."
+  },
+  {
+    "objectID": "Workshop_setup.html",
+    "href": "Workshop_setup.html",
+    "title": "Preparation",
+    "section": "",
+    "text": "Page without code\n\n\n\nThis page contains an example for some structured preparation information for a workshop. No code is executed here.\nHere are some preparation information for the participants."
+  },
+  {
+    "objectID": "Workshop_setup.html#software",
+    "href": "Workshop_setup.html#software",
+    "title": "Preparation",
+    "section": "Software",
+    "text": "Software\nIn this workshop we will be using R. You can either\n\nhave R and Rstudio installed on your laptop\nor, use Posit cloud (formerly Rstudio Cloud).\n\nPosit cloud is free of charge for personal users, yet you need to sign up for a new user account and have internet connection.\nThe R package we are using is glmnet."
+  },
+  {
+    "objectID": "Workshop_setup.html#data",
+    "href": "Workshop_setup.html#data",
+    "title": "Preparation",
+    "section": "Data",
+    "text": "Data\nThe datasets we use can be found here (insert link)."
+  },
+  {
+    "objectID": "Workshop_setup.html#code",
+    "href": "Workshop_setup.html#code",
+    "title": "Preparation",
+    "section": "Code",
+    "text": "Code\nThe R scripts used in part 1 and part 2 can be found here (insert link)."
+  },
+  {
+    "objectID": "Workshop_setup.html#resources",
+    "href": "Workshop_setup.html#resources",
+    "title": "Preparation",
+    "section": "Resources",
+    "text": "Resources\nLecture notes (insert link)\nLab notes (insert link)"
   }
 ]

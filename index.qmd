@@ -13,7 +13,7 @@ title: "Welcome to the LAK workshop Social Network Analysis for Newbies!"
 
 # Welcome!
 
-- Using LASER materials, this workshop is designed to introduce education researchers with little or no background in SNA to social network theory, examples of network analysis in educational contexts, and applied experience analyzing real-world data sets. To support scholars’ conceptual understanding of SNA as both a theoretical perspective and an analytical method, the instructors will provide short presentations and facilitate peer discussion on topics ranging from broad applications of SNA in educational contexts to specific approaches for data collection and storage. This course will also provide you with applied experience analyzing network data through code-alongs and interactive case studies that use widely adopted tools (e.g., R, RStudio, and GitHub) and demonstrate common techniques (e.g, network visualization, measurement, and modeling). Collectively, these activities will help you both appreciate and experience how SNA can be used to understand and improve student learning and the contexts in which learning occurs.
+- This workshop introduces education researchers to social network theory and its applications in educational contexts using LASER materials. Instructors will offer presentations and discussions on SNA applications, data collection, and storage techniques. Participants will gain hands-on experience analyzing network data using tools like R, RStudio, and GitHub. The course aims to demonstrate how SNA can enhance understanding and improvement of student learning and its environments.
 
 -   Workshop material can be found in the workshop [LAK SNA github repository](https://github.com/laser-institute/LAK24-kyoto-SNA).
 
