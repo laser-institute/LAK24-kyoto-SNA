@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Social Network Analysis for Newbies: Theory, Applications, and Analysis"
+  title: "Social Network Analysis for Newbies"
   navbar:
     left:
       - href: index.qmd
@@ -12,13 +12,25 @@ website:
         text: About
     right:
       - icon: github
-        href: https://github.com
+        href:  https://github.com/laser-institute/LAK24-kyoto-SNA
   sidebar:
     style: "docked"
     search: true
     contents:
-      - part_1_prep.qmd
-      - part_2_eda.qmd
+      - section: "Prior to workshop"
+        contents: 
+          - pre_workshop/Welcome.qmd
+          - pre_workshop/laser_toolkit.qmd
+      - section: "Part 1"
+        contents: 
+          - part1/part1_index.qmd
+      - section: "Part II"
+        contents:
+          - part2/part2_index.qmd
+      - section: "More SNA Cases"
+        contents:
+      - section: "Post Workshop"
+        contents:
   page-navigation: true
 
 format:
@@ -28,4 +40,3 @@ format:
     toc: true
 
 editor: visual
-

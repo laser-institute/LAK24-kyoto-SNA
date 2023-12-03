@@ -1,0 +1,58 @@
+---
+title: "Welcome"
+---
+
+
+![](img/LASER_Hx.png){width="30%"}
+
+Welcome to **An Introduction to Social Network Analysis and Education
+Research: Core Concepts and Applications with R**! This workshop is not
+only part of the 2024 14th International Learning and Knowledge
+Confernce(LAK24) , but part of the broader work of the [Learning
+Analytics in STEM Education Research (LASER)
+Institute](https://fi.ncsu.edu/projects/laser-institute/), a
+professional development program for early and mid-career researchers
+funded by the National Science Foundation (ECR: BCSER). To help you
+prepare for our workshop this Thursday, August 10, 2023, from 1:00pm to
+5:00pm (EST), provided below is some information about the
+organizational aspects of the workshop as well as the technical
+components you will need to fully participate.
+
+## Overview
+
+This workshop is designed to introduce education researchers with little
+or no background in SNA to social network theory, examples of network
+analysis in educational contexts, and applied experience analyzing
+real-world data sets. To support scholars' conceptual understanding of
+SNA as both a theoretical perspective and an analytical method, the
+instructors will provide short presentations and facilitate peer
+discussion on topics ranging from broad applications of SNA in
+educational contexts to specific approaches for data collection and
+storage. This course will also provide you with applied experience
+analyzing network data through code-alongs and interactive case studies
+that use widely adopted tools (e.g., R, RStudio, and GitHub) and
+demonstrate common techniques (e.g, network visualization, measurement,
+and modeling). Collectively, these activities will help you both
+appreciate and experience how SNA can be used to understand and improve
+student learning and the contexts in which learning occurs.
+
+## Agenda & Slides
+
+-   **TBD [Introduction &
+    Overview](https://laser-institute.github.io/network-analysis/sna-intro/sna-aera-intro-slides.html)**
+    -   SNA in Education Research
+    -   SNA LASER Learning Labs
+-   **TBD Break**
+-   **TBD [Lab 1: SNA for
+    Newbies](https://laser-institute.github.io/network-analysis/lab-1/sna-lab-1-slides.html#1)**
+    -   Conceptual Overview
+    -   Code-Along
+-   **TBD Break**
+-   **TBD Lab 1: Case Study**
+    -   [Who's Friends with Who in Middle
+        School](https://laser-institute.github.io/network-analysis/lab-1/sna-lab-1-case-study-key.html)
+-   **TBD [Lab 2: Management &
+    Measurement](https://laser-institute.github.io/network-analysis/lab-2/sna-lab-2-slides.html#1)**
+    -   Conceptual Overview
+    -   Code-Along
+-   **TBD Dismiss/Break**

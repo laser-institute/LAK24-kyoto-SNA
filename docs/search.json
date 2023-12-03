@@ -103,5 +103,138 @@
     "title": "Preparation",
     "section": "Resources",
     "text": "Resources\nLecture notes (insert link)\nLab notes (insert link)"
+  },
+  {
+    "objectID": "part2/part2_index.html",
+    "href": "part2/part2_index.html",
+    "title": "SNA Part 2",
+    "section": "",
+    "text": "Under Construction"
+  },
+  {
+    "objectID": "part2/part2_index.html#a-cancer-modeling-example",
+    "href": "part2/part2_index.html#a-cancer-modeling-example",
+    "title": "Part I",
+    "section": "A Cancer Modeling Example",
+    "text": "A Cancer Modeling Example\nExercise on analysis of miRNA, mRNA and protein data from the paper Aure et al, Integrated analysis reveals microRNA networks coordinately expressed with key proteins in breast cancer, Genome Medicine, 2015.\nPlease run the code provided to replicate some of the analyses. Make sure you can explain what all the analysis steps do and that you understand all the results.\nIn addition, there are some extra tasks (Task 1), where no R code is provided. Please do these tasks when you have time available at the end of the lab."
+  },
+  {
+    "objectID": "sna-intro/sna-LAK-welcome.html",
+    "href": "sna-intro/sna-LAK-welcome.html",
+    "title": "Social Network Analysis for Newbies",
+    "section": "",
+    "text": "Welcome to An Introduction to Social Network Analysis and Education Research: Core Concepts and Applications with R! This workshop is not only part of the 2023 AERA Virtual Research Learning Series, but part of the broader work of the Learning Analytics in STEM Education Research (LASER) Institute, a professional development program for early and mid-career researchers funded by the National Science Foundation (ECR: BCSER). To help you prepare for our workshop this Thursday, August 10, 2023, from 1:00pm to 5:00pm (EST), provided below is some information about the organizational aspects of the workshop as well as the technical components you will need to fully participate."
+  },
+  {
+    "objectID": "sna-intro/sna-LAK-welcome.html#overview",
+    "href": "sna-intro/sna-LAK-welcome.html#overview",
+    "title": "Social Network Analysis for Newbies",
+    "section": "Overview",
+    "text": "Overview\nThis workshop is designed to introduce education researchers with little or no background in SNA to social network theory, examples of network analysis in educational contexts, and applied experience analyzing real-world data sets. To support scholars’ conceptual understanding of SNA as both a theoretical perspective and an analytical method, the instructors will provide short presentations and facilitate peer discussion on topics ranging from broad applications of SNA in educational contexts to specific approaches for data collection and storage. This course will also provide you with applied experience analyzing network data through code-alongs and interactive case studies that use widely adopted tools (e.g., R, RStudio, and GitHub) and demonstrate common techniques (e.g, network visualization, measurement, and modeling). Collectively, these activities will help you both appreciate and experience how SNA can be used to understand and improve student learning and the contexts in which learning occurs."
+  },
+  {
+    "objectID": "sna-intro/sna-LAK-welcome.html#agenda-slides",
+    "href": "sna-intro/sna-LAK-welcome.html#agenda-slides",
+    "title": "Social Network Analysis for Newbies",
+    "section": "Agenda & Slides",
+    "text": "Agenda & Slides\n\n1:00 - 1:50 Introduction & Overview\n\nSNA in Education Research\nSNA LASER Learning Labs\n\n1:50 - 2:00 Break\n2:00 - 3:00 Lab 1: SNA for Newbies\n\nConceptual Overview\nCode-Along\n\n3:00 - 3:20 Break\n3:20 - 4:00 Lab 1: Case Study\n\nWho’s Friends with Who in Middle School\n\n4:00 - 5:00 Lab 2: Management & Measurement\n\nConceptual Overview\nCode-Along\n\n5:00 - 5:30 Dismiss/Break\n5:30 - 6:00 Afterparty!"
+  },
+  {
+    "objectID": "sna-intro/sna-LAK-welcome.html#laser-institute-toolkit",
+    "href": "sna-intro/sna-LAK-welcome.html#laser-institute-toolkit",
+    "title": "Social Network Analysis for Newbies",
+    "section": "LASER Institute Toolkit",
+    "text": "LASER Institute Toolkit\n\nPosit Cloud\nFor our broader LASER Institute program and for this workshop as well, we will make extensive use of Posit Cloud (https://posit.co/products/cloud/cloud/). Posit Cloud lets you access Posit’s powerful set of data science tools like the RStudio IDE (https://posit.co/products/open-source/rstudio), an integrated development environment (IDE) for R and Python that includes a console and syntax-highlighting editor, as well as tools for plotting, history, debugging, and workspace management. Since Posit Cloud is accessed right in your browser, there is no installation or complex configuration required.\nPrior to the workshop, you will need to register for a free Posit Cloud account at: https://login.posit.cloud/register.\n\nAERA SNA Workshop 2023 Workspace\nDuring the workshop, you will need to access our AERA SNA Workshop 2023, where we will host the network-analysis RStudio project and instructional materials it contains. To access this workspace, use the following link: go.ncsu.edu/sna-labs. RStudio projects make it straightforward to divide your work into multiple contexts, each with their own working directory, workspace, history, and source documents. To learn more, visit: https://support.posit.co/hc/en-us/articles/200526207-Using-RStudio-Projects.\nIf you’ve accessed the workspace correctly, you should see something like this:\n\n\n\n\nPosit Primers & Cheat Sheets\nTo make this most of this workshop it is helpful to have some basic working knowledge of R. If you are new to R, we highly recommend taking advantage of the great resources provided through Posit Cloud for learning R. For example, Posit Primers (https://posit.cloud/learn/primers) provide an excellent series of interactive tutorials that range from R fundamentals like basic programming syntax to complex tasks like building interactive data dashboards. Specifically, we strongly encourage you to complete The Basics primer consisting of:\n\nVisualization Basics: Start here and begin making plots with R. Plots are one of the most important tools for data science; they are also one of the most fun.\nProgramming Basics: This tutorial demystifies programming with R. Here, you’ll learn how to run functions and build objects.\n\nPosit Cheat Sheets (https://posit.cloud/learn/cheat-sheets) also provide handy reference to commonly used packages and their essential functions, including example code for testing them out."
+  },
+  {
+    "objectID": "sna-intro/sna-LAK-welcome.html#learn-more",
+    "href": "sna-intro/sna-LAK-welcome.html#learn-more",
+    "title": "Social Network Analysis for Newbies",
+    "section": "Learn More",
+    "text": "Learn More\nFinally, if you are interested in learning more about the LASER Institute and are considering applying for our 2024 cohort, we encourage you to visit our LASER Institute website and the 2023 Welcome Packet.\nTake care and we’ll see you all soon!!\nShaun B. Kellogg, North Carolina State University\nOleksandra Poquet, Technical University of Munich\nBodong Chen, University of Pennsylvania\nJeanne M. McClure, North Carolina State University"
+  },
+  {
+    "objectID": "part1/part1_index.html",
+    "href": "part1/part1_index.html",
+    "title": "part_1",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "part1/part1_index.html#quarto",
+    "href": "part1/part1_index.html#quarto",
+    "title": "part_1",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "part1/part1_index.html#running-code",
+    "href": "part1/part1_index.html#running-code",
+    "title": "part_1",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "part_1_index.html",
+    "href": "part_1_index.html",
+    "title": "SNA Part 1",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "part_1_index.html#quarto",
+    "href": "part_1_index.html#quarto",
+    "title": "SNA Part 1",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "part_1_index.html#running-code",
+    "href": "part_1_index.html#running-code",
+    "title": "SNA Part 1",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "pre_workshop/laser_toolkit.html",
+    "href": "pre_workshop/laser_toolkit.html",
+    "title": "LASER Toolkit",
+    "section": "",
+    "text": "For our broader LASER Institute program and for this workshop as well, we will make extensive use of Posit Cloud (https://posit.co/products/cloud/cloud/). Posit Cloud lets you access Posit’s powerful set of data science tools like the RStudio IDE (https://posit.co/products/open-source/rstudio), an integrated development environment (IDE) for R and Python that includes a console and syntax-highlighting editor, as well as tools for plotting, history, debugging, and workspace management. Since Posit Cloud is accessed right in your browser, there is no installation or complex configuration required.\nPrior to the workshop, you will need to register for a free Posit Cloud account at: https://login.posit.cloud/register.\n\n\nDuring the workshop, you will need to access our LAK24 SNA Workspace, where we will host the network-analysis RStudio project and instructional materials it contains. To access this workspace, use the following link: go.ncsu.edu/sna-labs. RStudio projects make it straightforward to divide your work into multiple contexts, each with their own working directory, workspace, history, and source documents. To learn more, visit: https://support.posit.co/hc/en-us/articles/200526207-Using-RStudio-Projects.\nIf you’ve accessed the workspace correctly, you should see something like this:"
+  },
+  {
+    "objectID": "pre_workshop/laser_toolkit.html#laser-institute-toolkit",
+    "href": "pre_workshop/laser_toolkit.html#laser-institute-toolkit",
+    "title": "LASER Toolkit",
+    "section": "",
+    "text": "For our broader LASER Institute program and for this workshop as well, we will make extensive use of Posit Cloud (https://posit.co/products/cloud/cloud/). Posit Cloud lets you access Posit’s powerful set of data science tools like the RStudio IDE (https://posit.co/products/open-source/rstudio), an integrated development environment (IDE) for R and Python that includes a console and syntax-highlighting editor, as well as tools for plotting, history, debugging, and workspace management. Since Posit Cloud is accessed right in your browser, there is no installation or complex configuration required.\nPrior to the workshop, you will need to register for a free Posit Cloud account at: https://login.posit.cloud/register.\n\n\nDuring the workshop, you will need to access our LAK24 SNA Workspace, where we will host the network-analysis RStudio project and instructional materials it contains. To access this workspace, use the following link: go.ncsu.edu/sna-labs. RStudio projects make it straightforward to divide your work into multiple contexts, each with their own working directory, workspace, history, and source documents. To learn more, visit: https://support.posit.co/hc/en-us/articles/200526207-Using-RStudio-Projects.\nIf you’ve accessed the workspace correctly, you should see something like this:\n\n\n\n\n\nTo make this most of this workshop it is helpful to have some basic working knowledge of R. If you are new to R, we highly recommend taking advantage of the great resources provided through Posit Cloud for learning R. For example, Posit Primers (https://posit.cloud/learn/primers) provide an excellent series of interactive tutorials that range from R fundamentals like basic programming syntax to complex tasks like building interactive data dashboards. Specifically, we strongly encourage you to complete The Basics primer consisting of:\n\nVisualization Basics: Start here and begin making plots with R. Plots are one of the most important tools for data science; they are also one of the most fun.\nProgramming Basics: This tutorial demystifies programming with R. Here, you’ll learn how to run functions and build objects.\n\nPosit Cheat Sheets (https://posit.cloud/learn/cheat-sheets) also provide handy reference to commonly used packages and their essential functions, including example code for testing them out."
+  },
+  {
+    "objectID": "pre_workshop/laser_toolkit.html#learn-more",
+    "href": "pre_workshop/laser_toolkit.html#learn-more",
+    "title": "LASER Toolkit",
+    "section": "Learn More",
+    "text": "Learn More\nFinally, if you are interested in learning more about the LASER Institute and are considering applying for our 2024 cohort, we encourage you to visit our LASER Institute website.\nTake care and we’ll see you all soon!!\nShaun B. Kellogg, North Carolina State University\nJeanne M. McClure, North Carolina State University\nDaria Smyslova, North Carolina State University\nShiyan Jiang, North Carolina State University\nDoreen Mushi, North Carolina State University\nSusan Hibbard,  Blue Print Prep"
+  },
+  {
+    "objectID": "pre_workshop/Welcome.html",
+    "href": "pre_workshop/Welcome.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Welcome to An Introduction to Social Network Analysis and Education Research: Core Concepts and Applications with R! This workshop is not only part of the 2024 14th International Learning and Knowledge Confernce(LAK24) , but part of the broader work of the Learning Analytics in STEM Education Research (LASER) Institute, a professional development program for early and mid-career researchers funded by the National Science Foundation (ECR: BCSER). To help you prepare for our workshop this Thursday, August 10, 2023, from 1:00pm to 5:00pm (EST), provided below is some information about the organizational aspects of the workshop as well as the technical components you will need to fully participate."
+  },
+  {
+    "objectID": "pre_workshop/Welcome.html#overview",
+    "href": "pre_workshop/Welcome.html#overview",
+    "title": "Welcome",
+    "section": "Overview",
+    "text": "Overview\nThis workshop is designed to introduce education researchers with little or no background in SNA to social network theory, examples of network analysis in educational contexts, and applied experience analyzing real-world data sets. To support scholars’ conceptual understanding of SNA as both a theoretical perspective and an analytical method, the instructors will provide short presentations and facilitate peer discussion on topics ranging from broad applications of SNA in educational contexts to specific approaches for data collection and storage. This course will also provide you with applied experience analyzing network data through code-alongs and interactive case studies that use widely adopted tools (e.g., R, RStudio, and GitHub) and demonstrate common techniques (e.g, network visualization, measurement, and modeling). Collectively, these activities will help you both appreciate and experience how SNA can be used to understand and improve student learning and the contexts in which learning occurs."
+  },
+  {
+    "objectID": "pre_workshop/Welcome.html#agenda-slides",
+    "href": "pre_workshop/Welcome.html#agenda-slides",
+    "title": "Welcome",
+    "section": "Agenda & Slides",
+    "text": "Agenda & Slides\n\nTBD Introduction & Overview\n\nSNA in Education Research\nSNA LASER Learning Labs\n\nTBD Break\nTBD Lab 1: SNA for Newbies\n\nConceptual Overview\nCode-Along\n\nTBD Break\nTBD Lab 1: Case Study\n\nWho’s Friends with Who in Middle School\n\nTBD Lab 2: Management & Measurement\n\nConceptual Overview\nCode-Along\n\nTBD Dismiss/Break"
   }
 ]

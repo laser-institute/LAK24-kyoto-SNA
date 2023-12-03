@@ -13,5 +13,26 @@
   },
   "Workshop_setup.qmd": {
     "Workshop_setup.html": "bce2f305"
+  },
+  "part1/part1_index.qmd": {
+    "part1_index.html": "09487f04"
+  },
+  "part2/part2_index.qmd": {
+    "part2_index.html": "5946c29c"
+  },
+  "sna-intro/SNA-LAK-INTRO-slides-placceholder.qmd": {
+    "SNA-LAK-INTRO-slides-placceholder.html": "eb5d38f1"
+  },
+  "sna-intro/sna-LAK-welcome.qmd": {
+    "sna-LAK-welcome.html": "d455b28d"
+  },
+  "part_1_index.qmd": {
+    "part_1_index.html": "e65dc665"
+  },
+  "pre_workshop/laser_toolkit.qmd": {
+    "laser_toolkit.html": "59fd0195"
+  },
+  "pre_workshop/Welcome.qmd": {
+    "Welcome.html": "010ddc0c"
   }
 }
