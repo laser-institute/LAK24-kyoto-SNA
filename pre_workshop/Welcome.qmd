@@ -1,8 +1,6 @@
 ---
 title: "Welcome"
 ---
-
-
 ![](img/LASER_Hx.png){width="30%"}
 
 Welcome to **An Introduction to Social Network Analysis and Education
@@ -38,8 +36,8 @@ student learning and the contexts in which learning occurs.
 
 ## Agenda & Slides
 
--   **TBD [Introduction &
-    Overview](https://laser-institute.github.io/network-analysis/sna-intro/sna-aera-intro-slides.html)**
+-   **TBD Introduction &
+    Overview**
     -   SNA in Education Research
     -   SNA LASER Learning Labs
 -   **TBD Break**
