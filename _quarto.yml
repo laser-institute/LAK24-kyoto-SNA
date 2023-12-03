@@ -18,6 +18,7 @@ website:
     search: true
     contents:
       - section: "Prior to workshop"
+        style: "docked"
         contents: 
           - pre_workshop/Welcome.qmd
           - pre_workshop/laser_toolkit.qmd
